@@ -1,2 +1,3 @@
 core.*
 .ipynb_checkpoints/
+*.nc
