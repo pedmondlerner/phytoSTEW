@@ -1,4 +1,4 @@
-month_year,Lat,Lon,cv_y,mean_y,median_y,std_y,value_y
+month_year,Lat,Lon,cv,mean,median,std,value
 Apr 2024,-48.199,-52.692,0.082213745,92.19995,88.30005,7.5801034,poc
 Apr 2024,-48.115,-52.572,0.059555914,94.0,92.6001,5.598256,poc
 Apr 2024,-48.014,-52.436,0.1152767,98.31992,96.3999,11.333997,poc

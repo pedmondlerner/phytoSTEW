@@ -1,4 +1,4 @@
-month_year,Lat,Lon,cv_y,mean_y,median_y,std_y,value_y
+month_year,Lat,Lon,cv,mean,median,std,value
 Apr 2024,-48.199,-52.692,0.117412105,0.35776472,0.33807573,0.042005908,chlor_a
 Apr 2024,-48.115,-52.572,0.08758608,0.36648208,0.3601067,0.03209873,chlor_a
 Apr 2024,-48.014,-52.436,0.16042091,0.39177,0.3756388,0.0628481,chlor_a
